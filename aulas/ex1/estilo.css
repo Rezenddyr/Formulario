@@ -1,0 +1,57 @@
+a{
+    text-align: center;
+    margin-bottom: 50px; 
+}
+
+h1{
+    margin-left: 20px;
+}
+
+textarea{
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+div{
+    margin-left: 30px;
+    margin-bottom: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: solid;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label{
+    font-size: 20px;
+    margin-left: -20px;
+}
+
+input{
+    margin-left: -10px;
+    border-radius: 20px;
+    height: 30px;
+    width: 500px;
+}
+
+#certificar{
+    margin-left: 20px;
+}
+
+#mensagem{
+    align-items: left;
+    margin-left: 0px;
+}
+
+button{
+    text-align: center;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 1px solid #eee;
+    border-radius: 60px;
+    background-color: grey;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
